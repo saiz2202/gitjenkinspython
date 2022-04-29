@@ -1,4 +1,4 @@
-print 'Manjeri'
-print 'Manjeri'
+print 'Manjari'
+print 'Manjari'
 
-print 'Manjeri'
+print 'Manjari'
